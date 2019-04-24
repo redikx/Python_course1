@@ -1,4 +1,4 @@
-countries = ["Luxembourgi", "Germany", "Poland", "France", "Belgium"]
+countries = ["Luxembourg", "Germany", "Poland", "France", "Belgium"]
 
 # Create new file
 with open("new_file.txt", 'w') as file_w:
