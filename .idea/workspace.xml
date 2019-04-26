@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b4d523f-6944-45e0-ab49-023d31db1a41" name="Default Changelist" comment="" />
+    <list default="true" id="4b4d523f-6944-45e0-ab49-023d31db1a41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_1/file_io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_1/pickle_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_1/shelve_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Course_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Course_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/Strings_show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkIIP.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/checkIIP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/else_in_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/else_in_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_no_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/extract_no_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/guessNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/guessNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_work.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/if_work.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Section_1/new_file.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +25,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Course_1/Strings_show.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Section_1/Strings_show.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="26">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section_1/shelve_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -28,11 +53,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/HelloWorld.py" />
-        <option value="$PROJECT_DIR$/../Course_1/Strings_show.py" />
+        <option value="$PROJECT_DIR$/Strings_show.py" />
+        <option value="$PROJECT_DIR$/shelve_example.py" />
       </list>
     </option>
   </component>
@@ -42,26 +71,31 @@
     <option name="width" value="2696" />
     <option name="height" value="1664" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Course_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Course_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -77,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.shelve_example">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +146,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shelve_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Course_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Python_dev\Course_1\Section_1\shelve_example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,6 +220,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shelve_example" />
         <item itemvalue="Python.HelloWorld" />
       </list>
     </recent_temporary>
@@ -184,14 +240,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24906786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32739726" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32627118" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,10 +262,20 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.py" />
-    <entry file="file://$PROJECT_DIR$/../Course_1/Strings_show.py">
+    <entry file="file://$PROJECT_DIR$/Section_1/Strings_show.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="26">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section_1/recshelve.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section_1/shelve_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
